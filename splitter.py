@@ -6,8 +6,8 @@ from sklearn.model_selection import train_test_split
 
 # --- Configuration ---
 # IMPORTANT: Update these paths to match your project structure
-SOURCE_DATA_DIR = r"C:\Users\CalidarTeam\OneDrive - Calidar Medical\Intern\Owen\BlockData_Processed\XRD_Data\All"
-OUTPUT_DATASET_DIR = r"C:\Users\CalidarTeam\OneDrive - Calidar Medical\Intern\Owen\BlockData_Processed\dataset"
+SOURCE_DATA_DIR = r"directory"
+OUTPUT_DATASET_DIR = r"directoryt"
 
 # The ratio for the split (e.g., 0.2 means 20% for validation, 80% for training)
 VALIDATION_SPLIT_RATIO = 0.2
